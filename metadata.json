@@ -1,0 +1,6 @@
+{
+  "name": "Convertly - Premium Document Conversion Platform",
+  "description": "Convert documents, spreadsheets, images, and text securely across modern formats with real processing pipelines, MongoDB metadata tracking, and Google Sheets audit logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
